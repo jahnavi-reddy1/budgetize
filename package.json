@@ -1,0 +1,23 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "npm run watch --prefix server",
+    "client": "npm run start --prefix client",
+    "watch": "npm run server & yarn client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-async-handler": "^1.2.0",
+    "mongodb": "^6.2.0"
+  }
+}
