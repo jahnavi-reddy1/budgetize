@@ -79,6 +79,4 @@ Follow these steps to get started with Budgetize:
 - Thanks to the React community for providing a robust framework.
 - Chart.js for the easy and customizable charting library.
 
----
 
-Feel free to customize this README according to your project's specific details and needs.
