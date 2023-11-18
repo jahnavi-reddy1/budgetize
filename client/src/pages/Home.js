@@ -27,7 +27,7 @@ const Home = () => {
                     <a
                       target="_blank"
                       className="btn btn-secondary mb-2 mb-sm-0"
-                      href="https://www.youtube.com/channel/UCvu6J9q1AM6q4xysGqAvVyw"
+                      href="https://www.https://youtu.be/Gkb-h5K5riI"
                     >
                       Video Tutorial
                     </a>
