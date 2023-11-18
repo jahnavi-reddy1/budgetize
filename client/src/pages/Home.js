@@ -23,12 +23,7 @@ const Home = () => {
                   Spend smarter save better
                   </p>
                   <div className="d-flex flex-wrap">
-                    <Link
-                      to="/profile"
-                      className="btn btn-primary me-2 mb-2 mb-sm-0"
-                    >
-                      Track your performance
-                    </Link>
+                    
                     <a
                       target="_blank"
                       className="btn btn-secondary mb-2 mb-sm-0"

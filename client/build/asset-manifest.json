@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/budgetize/static/css/main.239e5012.css",
+    "main.js": "/budgetize/static/js/main.b56988ad.js",
+    "static/js/787.d5fa4d18.chunk.js": "/budgetize/static/js/787.d5fa4d18.chunk.js",
+    "static/media/exp.png": "/budgetize/static/media/exp.1f5ea37a67c7462341f0.png",
+    "static/media/money.jpg": "/budgetize/static/media/money.b2633f3e09e2fb8ea51d.jpg",
+    "static/media/data.jpg": "/budgetize/static/media/data.bc82af0cd484f12a302d.jpg",
+    "static/media/notadmin.svg": "/budgetize/static/media/notadmin.4861ae776b44868dd600a76fba88073d.svg",
+    "index.html": "/budgetize/index.html",
+    "main.239e5012.css.map": "/budgetize/static/css/main.239e5012.css.map",
+    "main.b56988ad.js.map": "/budgetize/static/js/main.b56988ad.js.map",
+    "787.d5fa4d18.chunk.js.map": "/budgetize/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239e5012.css",
+    "static/js/main.b56988ad.js"
+  ]
+}
